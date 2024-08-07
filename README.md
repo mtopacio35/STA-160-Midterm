@@ -1,1 +1,2 @@
 # STA-160-Midterm
+Using the BRFSS heart disease dataset from 2015, we investigate the health- and lifestyle-related factors' relationships to having heart disease, a stroke, or diabetes. We check the different factors' relationships using odds ratio likelihoods, choosing the three highest likelihoods to investigate as our covariates. Using entropy and mutual information, we determine how these three particular factors, or covariates can affect a person having heart disease, a stroke, or diabetes. 
